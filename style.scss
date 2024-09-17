@@ -1,0 +1,6 @@
+@import './normalize.scss';
+
+.btn_numbers {
+    @include clear-button;
+    @include clear-list;
+}
