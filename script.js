@@ -5,3 +5,7 @@ const fn = () => {
 const syaBye = () => {
     alert(`Goodbuy from Git!`);
 }
+
+const syaAngular = () => {
+    alert(`Hi Angular!`);
+}
